@@ -97,6 +97,7 @@ body {
     border: 1px solid var(--primaryColor);
     transition: var(--mainTransition);
     cursor: pointer;
+    text-decoration: none;
 }
   .banner-btn:hover {
     background: transparent;
