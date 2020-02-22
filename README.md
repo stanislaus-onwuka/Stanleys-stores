@@ -1,2 +1,2 @@
 # Stanleys-stores
-Test project for an E-commerce website
+Test project for a website with a shopping cart
